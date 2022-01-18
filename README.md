@@ -82,5 +82,5 @@ To list all the current/available jobs
 ## Future enhancements
 - Separate the submissions of the jobs from the jobs themselves
 - Better handling of Gas and money transfer
-- Adding unit tests 
+- Adding tests 
 
